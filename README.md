@@ -3,14 +3,14 @@
 _____
 
 ```
-Hello, welcome to the README.md file of the GitHub organization for the FAU High School coding club.
+--Hello, welcome to the README.md file of the GitHub organization for the FAU High School coding club.--
 
 Welcome to the High School Coding Club GitHub Organization! We're thrilled to have you here and excited
 to see all the amazing coding projects and collaborations that will come out of this community. Whether
 you're a seasoned programmer or just starting your coding journey, this is a place where you can learn,
 share, and create together.
 
-## About Us
+--About Us--
 The High School Coding Club is a community of passionate students interested in computer programming and
 technology. Our mission is to foster a collaborative and inclusive environment where members can:
 
@@ -20,7 +20,7 @@ technology. Our mission is to foster a collaborative and inclusive environment w
 - Share knowledge, resources, and insights with fellow members.
 - Connect with like-minded individuals who share a passion for coding.
 
-## Getting Started
+--Getting Started--
 
 *If you're new to the club or GitHub in general, don't worry! We've got you covered. Here's how you can
 get started:*
@@ -47,7 +47,7 @@ to fellow members.
 7. Code of Conduct: Our club follows a Code of Conduct to ensure a respectful and inclusive environment for all members.
 Please read and adhere to it in all interactions within the club.
 
-## Communications
+--Communications--
 
 We have a Discord server where we discuss most of the important stuff, but you can also check out an Instagram account
 made by one of the members. Unfortunately, Discord does not allow invites longer than 30 days for servers that are not
@@ -59,7 +59,7 @@ or use this link: https://www.instagram.com/fauhscoding/
 Issues: If you encounter a problem with a specific repository, you can open an issue in that repository. Be sure to
 provide detailed information about the issue.
 
-## Have Fun!
+--Have Fun!--
 
 Remember, coding is not just about writing lines of code; it's about creativity, problem-solving, and learning. So, have fun
 exploring, experimenting, and collaborating. We can't wait to see the incredible projects you'll create and the skills you'll develop.
