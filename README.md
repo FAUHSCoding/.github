@@ -1,9 +1,6 @@
-# [FAUHS Coding Club Organization On Github](https://github.com/FAUHSCoding)
+# [FAU High School Coding Club Organization](https://github.com/FAUHSCoding)
 
 _____
-
-
-### Hello, welcome to the README.md file of the GitHub organization for the FAU High School coding club.
 
 Welcome to the High School Coding Club GitHub Organization! We're thrilled to have you here and excited
 to see all the amazing coding projects and collaborations that will come out of this community. Whether
