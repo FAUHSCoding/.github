@@ -2,7 +2,7 @@
 
 _____
 
-```
+
 --Hello, welcome to the README.md file of the GitHub organization for the FAU High School coding club.--
 
 Welcome to the High School Coding Club GitHub Organization! We're thrilled to have you here and excited
@@ -66,6 +66,3 @@ exploring, experimenting, and collaborating. We can't wait to see the incredible
 
 - Florida Atlantic University High School's Coding Club
 
-```
-
-- amarnath p 
