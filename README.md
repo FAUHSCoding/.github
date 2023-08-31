@@ -1,8 +1,8 @@
-# [FAU High School Coding Club Organization](https://github.com/FAUHSCoding)
+# [FAU High School Coding Club](https://github.com/FAUHSCoding)
 
 _____
 
-Welcome to the High School Coding Club GitHub Organization! We're thrilled to have you here and excited
+Welcome to the High School Coding Club GitHub! We're thrilled to have you here and excited
 to see all the amazing coding projects and collaborations that will come out of this community. Whether
 you're a seasoned programmer or just starting your coding journey, this is a place where you can learn,
 share, and create together.
